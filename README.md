@@ -2,5 +2,7 @@
 Welcome to GitHub Master
 
 
-Adding New Lines to Child
+Adding New Lines to Child 
+
+Add some more lines to child
 
